@@ -22,7 +22,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 <<<<<<< HEAD
 url: http://www.urconnect.xyz # the base hostname & protocol for your site, e.g. http://example.com
 =======
-url: urconnect.xyz # the base hostname & protocol for your site, e.g. http://example.com
 >>>>>>> 083d8d2eefd35bd661e24ec6d9956a009780688d
 twitter_username: URConnected
 
