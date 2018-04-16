@@ -29,7 +29,7 @@ twitter_username: URConnected
 markdown: kramdown
 <<<<<<< HEAD
 =======
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 >>>>>>> 1c768fe74213df75939d1b7083d5e29aadfcff22
 theme: jekyll-theme-cayman
 plugins:
