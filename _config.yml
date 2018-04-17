@@ -20,12 +20,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Changing the shape of post-retirement life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://www.urconnect.xyz # the base hostname & protocol for your site, e.g. http://example.com
-=======
+
 twitter_username: URConnected
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
