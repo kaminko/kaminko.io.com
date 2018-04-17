@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 Donec maximus leo in ligula vulputate pulvinar. Cras in rhoncus erat. Vestibulum quam velit, dapibus sed bibendum et, cursus nec erat. In ultricies bibendum augue, iaculis faucibus mi porttitor vel. Mauris laoreet dolor non lobortis gravida. Phasellus massa eros, tincidunt eget tincidunt dapibus, vehicula a urna. Nulla ut ipsum sollicitudin, luctus risus sollicitudin, consectetur risus.
-![Cute Snail]({{"/assets/IMG_4797.jpg" | https://image.ibb.co/dvWUcH/IMG_4797.jpg}})
+![Cute Snail]({{"/assets/IMG_4797.jpg" | https://image.ibb.co/ezZ4Bc/IMG_4797.jpg}})
 
 Sed ante sapien, imperdiet eu odio non, porta imperdiet elit. Nam iaculis felis in nisl malesuada ultricies. Nunc sit amet orci condimentum, elementum nisl ut, aliquet leo. Praesent eu ligula auctor, viverra urna id, viverra tellus. Nullam finibus posuere pharetra. Nam turpis mi, lacinia a turpis in, porttitor sodales elit. Mauris efficitur odio vel felis ultricies, vel feugiat tellus tempor. Aliquam ultricies, diam ac pellentesque venenatis, augue nunc venenatis neque, ornare vehicula lectus risus eu tortor. Integer sapien arcu, cursus quis mollis ut, cursus egestas felis.
 
