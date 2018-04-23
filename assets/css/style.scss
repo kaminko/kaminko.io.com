@@ -1,9 +1,12 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{site.theme}}";
 
-
+body{
+	background-color: #f3f6f7;
+	color: #00284C;
+}
 
 .site-header{
 	border-top:10px solid #00284C;
