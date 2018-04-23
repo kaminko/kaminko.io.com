@@ -1,8 +1,10 @@
 ---
 ---
 
-@import "{{ site.theme }}"
+@import "{{ site.theme }}";
+
+
 
 .site-header{
-	border-top:10px solid #00284C !important;
+	border-top:10px solid #00284C;
 }
